@@ -1,1 +1,1 @@
-# 2018-mlb-circle-packing
+Circle packing created for the 2018 MLB season. Size of the bubble represents number of wins, the bigger the circle, the more wins a team achieved. 
