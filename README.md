@@ -1,1 +1,1 @@
-Circle packing created for the 2018 MLB season. Size of the bubble represents number of wins, the bigger the circle, the more wins a team achieved.  https://omarzq.github.io/2018-mlb-circle-packing
+Circle packing created for the 2018 MLB season. Size of the bubble represents number of wins, the bigger the circle, the more wins a team achieved. Also, the close to the center, the more wins a team has.   https://omarzq.github.io/2018-mlb-circle-packing
